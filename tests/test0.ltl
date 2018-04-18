@@ -1,0 +1,5 @@
+G (JUMP -> (F C))
+G (JUMP -> (F D))
+G (A -> (F B))
+(A || B) U C
+G (C -> (F (A || B)))
