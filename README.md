@@ -27,7 +27,7 @@ mvn clean install
 $ java -jar target/verifier.jar tests/test0.xstd tests/test0.ltl 
 ```
 
-# Автомат `Switcher` из ТЗ
+## Автомат `Switcher` из ТЗ
 
 ```
 $ java -jar target/verifier.jar tests/test1.xstd tests/test1.ltl
